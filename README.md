@@ -38,7 +38,9 @@ So what if we told you that there's some really cool stuff going on with car pri
 
 Price prediction is a difficult problem. If you're buying a car, you want it to be within your budget, and you don't want to be taken advantage of by the dealer. A machine learning model (a statistical model) is able to make predictions based on past data.
 
-There are many ways to predict prices, but one of the simplest is using a linear regression model. This model takes all of your prices and compares them with other cars that have similar features. The result is a predicted price based on those features. You can then compare that prediction with the actual price of similar cars in your area to see if it's accurate—and if not, how much more or less expensive it should be given its predicted value.
+There are many ways to predict prices, but one of the simplest is using a linear regression model. This model takes all of your prices and compares them with other cars that have similar features. The result is a predicted price based on those features. 
+
+We built a neural network model that could predict how much a car would cost based on its make and model, as well as how many miles it had been driven. This model proved that it could accurately predict the prices of cars better than any other method we had tried up until that point.
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker" alt="docker Badge" height="25">&nbsp;
